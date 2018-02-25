@@ -1,0 +1,11 @@
+aggregate project Licensing_Alr is
+
+   --  This is an automatically generated file. DO NOT EDIT MANUALLY!
+
+   for Project_Files use ("licensing.gpr");
+
+   for Project_Path use ();
+
+   for external ("ALIRE") use "True";
+
+end Licensing_Alr;
